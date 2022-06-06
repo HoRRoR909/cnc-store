@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cnc-store/static/css/main.87d6bfcc.css",
+    "main.js": "/cnc-store/static/js/main.b346c065.js",
+    "static/media/cart.png": "/cnc-store/static/media/cart.0edb59010b1db3cbc904.png",
+    "static/media/logo.svg": "/cnc-store/static/media/logo.ea352a9ccb34789b35e9db7e8c1770de.svg",
+    "index.html": "/cnc-store/index.html",
+    "main.87d6bfcc.css.map": "/cnc-store/static/css/main.87d6bfcc.css.map",
+    "main.b346c065.js.map": "/cnc-store/static/js/main.b346c065.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d6bfcc.css",
+    "static/js/main.b346c065.js"
+  ]
+}
